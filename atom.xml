@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.zhujunlong.eu.org</id>
+    <title>宇宙公司贾总的博客</title>
+    <updated>2023-06-07T13:04:06.529Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.zhujunlong.eu.org"/>
+    <link rel="self" href="https://blog.zhujunlong.eu.org/atom.xml"/>
+    <logo>https://blog.zhujunlong.eu.org/images/avatar.png</logo>
+    <icon>https://blog.zhujunlong.eu.org/favicon.ico</icon>
+    <rights>All rights reserved 2023, 宇宙公司贾总的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[fff]]></title>
+        <id>https://blog.zhujunlong.eu.org/post/fff/</id>
+        <link href="https://blog.zhujunlong.eu.org/post/fff/">
+        </link>
+        <updated>2023-06-07T11:56:17.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
+</feed>
